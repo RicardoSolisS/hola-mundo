@@ -1,5 +1,5 @@
 # hola-mundo
 
-De prueba
+Primer repositorio
 
 Autor: Ricardo Solis
